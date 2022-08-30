@@ -10,7 +10,7 @@ class PassthroughGenerator(width: Int) extends Module {
 }
 
 // Let's now generate modules with different widths
-object Passthrough extends App {
+object PassthroughGenerator extends App {
   println(getVerilogString(new PassthroughGenerator(10)))
   println(getVerilogString(new PassthroughGenerator(20)))
 }
