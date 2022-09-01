@@ -1,4 +1,4 @@
-[0m[[0m[31merror[0m] [0m[0m/home/shi/chisel-template/src/test/scala/max3test.scala:29:1: expected class or object definition[0m
-[0m[[0m[31merror[0m] [0m[0mprintln("SUCCESS!!") // Scala Code: if we get here, our tests passed![0m
-[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/shi/chisel-template/src/test/scala/polytest.scala:15:24: not found: value poly[0m
+[0m[[0m[31merror[0m] [0m[0m      c.io.fOfX.expect(poly(select, x).S)[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
 [0m[[0m[31merror[0m] [0m[0mone error found[0m
