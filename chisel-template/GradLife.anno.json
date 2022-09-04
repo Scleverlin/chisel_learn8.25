@@ -1,0 +1,20 @@
+[
+  {
+    "class":"firrtl.EmitCircuitAnnotation",
+    "emitter":"firrtl.VerilogEmitter"
+  },
+  {
+    "class":"firrtl.transforms.BlackBoxTargetDirAnno",
+    "targetDir":"."
+  },
+  {
+    "class":"firrtl.transforms.CombinationalPath",
+    "sink":"~GradLife|GradLife>io_nextState",
+    "sources":[
+      "~GradLife|GradLife>io_state",
+      "~GradLife|GradLife>io_coffee",
+      "~GradLife|GradLife>io_idea",
+      "~GradLife|GradLife>io_pressure"
+    ]
+  }
+]

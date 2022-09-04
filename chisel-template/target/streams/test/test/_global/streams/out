@@ -1,50 +1,60 @@
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(HelloTest, org.scalatest.tools.Framework$$anon$1@40927d66, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(PassthroughTest, org.scalatest.tools.Framework$$anon$1@40927d66, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(gcd.GCDSpec, org.scalatest.tools.Framework$$anon$1@40927d66, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Sort4test, org.scalatest.tools.Framework$$anon$1@40927d66, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(operatortwotest, org.scalatest.tools.Framework$$anon$1@40927d66, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(max3test, org.scalatest.tools.Framework$$anon$1@40927d66, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(operatortest, org.scalatest.tools.Framework$$anon$1@40927d66, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(lastdetest, org.scalatest.tools.Framework$$anon$1@40927d66, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Polynomialtest, org.scalatest.tools.Framework$$anon$1@40927d66, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(operatortest, org.scalatest.tools.Framework$$anon$1@7fec5fea, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Sort4test, org.scalatest.tools.Framework$$anon$1@7fec5fea, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(gcd.GCDSpec, org.scalatest.tools.Framework$$anon$1@7fec5fea, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(HelloTest, org.scalatest.tools.Framework$$anon$1@7fec5fea, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(operatortwotest, org.scalatest.tools.Framework$$anon$1@7fec5fea, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(PassthroughTest, org.scalatest.tools.Framework$$anon$1@7fec5fea, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Polynomialtest, org.scalatest.tools.Framework$$anon$1@7fec5fea, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(gradtest, org.scalatest.tools.Framework$$anon$1@7fec5fea, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(lastdetest, org.scalatest.tools.Framework$$anon$1@7fec5fea, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(regtest, org.scalatest.tools.Framework$$anon$1@7fec5fea, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(max3test, org.scalatest.tools.Framework$$anon$1@7fec5fea, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mmax3test:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mmax3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should pass[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mSort4test:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32msort4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should pass[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mlastdetest:[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32moperator[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- should pass[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32moperatortwotest:[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32moperator[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- should pass[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mmax3test:[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mmax3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mPolynomialtest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mPolynomial[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should pass[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mregtest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mreg[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- should pass[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32moperatortest:[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32moperator[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- should pass[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGCDSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Gcd should calculate proper greatest common denominator[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mgradtest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mgradlife[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should pass[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mPassthroughTest:[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mPassthroughGenerator[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- should pass through bits[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mSort4test:[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32msort4[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- should pass[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mPolynomialtest:[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mPolynomial[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- should pass[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mGCDSpec:[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- Gcd should calculate proper greatest common denominator[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mHelloTest:[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mHello[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- should pass[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 29 seconds, 468 milliseconds.[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 9[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 9, aborted 0[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 9, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 31 seconds, 463 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 11[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 11, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 11, failed 0, canceled 0, ignored 0, pending 0[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
 [0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	PassthroughTest[0m
 [0m[[0m[0mdebug[0m] [0m[0m	max3test[0m
 [0m[[0m[0mdebug[0m] [0m[0m	HelloTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	gradtest[0m
 [0m[[0m[0mdebug[0m] [0m[0m	operatortest[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Polynomialtest[0m
 [0m[[0m[0mdebug[0m] [0m[0m	gcd.GCDSpec[0m
 [0m[[0m[0mdebug[0m] [0m[0m	operatortwotest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	regtest[0m
 [0m[[0m[0mdebug[0m] [0m[0m	lastdetest[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Sort4test[0m
