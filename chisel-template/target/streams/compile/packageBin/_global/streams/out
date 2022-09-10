@@ -38,6 +38,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel-template/target/scala-2.13/classes/LastConnect.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Passthrough$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel-template/target/scala-2.13/classes/Passthrough$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyOptionalShiftRegister$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel-template/target/scala-2.13/classes/MyOptionalShiftRegister$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Max3$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel-template/target/scala-2.13/classes/Max3$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	MyShiftRegister$.class[0m
@@ -48,6 +50,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel-template/target/scala-2.13/classes/RegisterModule$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	FindMax$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel-template/target/scala-2.13/classes/FindMax$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyOptionalShiftRegister.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel-template/target/scala-2.13/classes/MyOptionalShiftRegister.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Max3$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel-template/target/scala-2.13/classes/Max3$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Sort4.class[0m
@@ -86,6 +90,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel-template/target/scala-2.13/classes/gcd/GCD.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	gcd/DecoupledGcd.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel-template/target/scala-2.13/classes/gcd/DecoupledGcd.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyOptionalShiftRegister$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel-template/target/scala-2.13/classes/MyOptionalShiftRegister$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	MyOperatorsTwo$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel-template/target/scala-2.13/classes/MyOperatorsTwo$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	RegInitModule$$anon$1.class[0m
@@ -124,6 +130,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel-template/target/scala-2.13/classes/Hello$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Comb$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel-template/target/scala-2.13/classes/Comb$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyOptionalShiftRegister$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel-template/target/scala-2.13/classes/MyOptionalShiftRegister$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Max3$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel-template/target/scala-2.13/classes/Max3$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	PassthroughGenerator$$anon$1.class[0m

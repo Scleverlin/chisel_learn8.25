@@ -1,7 +1,4 @@
-[0m[[0m[31merror[0m] [0m[0m/home/shi/chisel-template/src/test/scala/regcftest.scala:7:1: expected class or object definition[0m
-[0m[[0m[31merror[0m] [0m[0mtest(new FindMax) { c =>[0m
+[0m[[0m[31merror[0m] [0m[0m/home/shi/chisel-template/src/test/scala/parshiftertest.scala:25:1: illegal character '\u200b'[0m
+[0m[[0m[31merror[0m] [0m[0m​[0m
 [0m[[0m[31merror[0m] [0m[0m^[0m
-[0m[[0m[31merror[0m] [0m[0m/home/shi/chisel-template/src/test/scala/regcftest.scala:22:1: expected class or object definition[0m
-[0m[[0m[31merror[0m] [0m[0mprintln("SUCCESS!!")[0m
-[0m[[0m[31merror[0m] [0m[0m^[0m
-[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
