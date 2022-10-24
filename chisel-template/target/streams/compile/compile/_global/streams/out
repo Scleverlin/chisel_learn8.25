@@ -1,4 +1,4 @@
-[0m[[0m[31merror[0m] [0m[0m/home/shi/chisel-template/src/main/scala/parpass.scala:22:1: expected class or object definition[0m
-[0m[[0m[31merror[0m] [0m[0m\[0m
+[0m[[0m[31merror[0m] [0m[0m/home/shi/chisel-template/src/main/scala/option.scala:23:1: ')' expected but '}' found.[0m
+[0m[[0m[31merror[0m] [0m[0m}[0m
 [0m[[0m[31merror[0m] [0m[0m^[0m
 [0m[[0m[31merror[0m] [0m[0mone error found[0m
