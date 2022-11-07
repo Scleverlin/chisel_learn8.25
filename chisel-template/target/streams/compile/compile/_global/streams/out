@@ -1,10 +1,13 @@
-[0m[[0m[31merror[0m] [0m[0m/home/shi/chisel-template/src/main/scala/implicit.scala:7:98: not found: type Verbosity[0m
-[0m[[0m[31merror[0m] [0m[0mclass ParameterizedWidthAdder_1(in0Width: Int, in1Width: Int, sumWidth: Int)(implicit verbosity: Verbosity)[0m
-[0m[[0m[31merror[0m] [0m[0m                                                                                                 ^[0m
-[0m[[0m[31merror[0m] [0m[0m/home/shi/chisel-template/src/main/scala/implicitdef.scala:2:37: not found: type Verbosity[0m
-[0m[[0m[31merror[0m] [0m[0mimplicit case object Silent extends Verbosity[0m
-[0m[[0m[31merror[0m] [0m[0m                                    ^[0m
-[0m[[0m[31merror[0m] [0m[0m/home/shi/chisel-template/src/main/scala/implicitdef.scala:3:29: not found: type Verbosity[0m
-[0m[[0m[31merror[0m] [0m[0mcase object Verbose extends Verbosity[0m
-[0m[[0m[31merror[0m] [0m[0m                            ^[0m
-[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
+[0m[[0m[31merror[0m] [0m[0m/home/shi/chisel-template/src/main/scala/mealy.scala:20:3: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0m  val nStates = 3[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/shi/chisel-template/src/main/scala/mealy.scala:21:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mval s0 = 2[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/shi/chisel-template/src/main/scala/mealy.scala:22:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mdef stateTransition(state: Int, in: Boolean): Int = {[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/shi/chisel-template/src/main/scala/mealy.scala:29:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mdef output(state: Int, in: Boolean): Int = {[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
