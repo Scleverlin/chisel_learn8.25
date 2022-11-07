@@ -44,6 +44,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel-template/target/scala-2.13/classes/Sort4_a.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ParameterizedWidthAdder_1$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel-template/target/scala-2.13/classes/ParameterizedWidthAdder_1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BinaryMealy$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel-template/target/scala-2.13/classes/BinaryMealy$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	DelayBy1$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel-template/target/scala-2.13/classes/DelayBy1$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Passthrough$delayedInit$body.class[0m
@@ -54,14 +56,20 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel-template/target/scala-2.13/classes/Passthrough$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	MyOptionalShiftRegister$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel-template/target/scala-2.13/classes/MyOptionalShiftRegister$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BinaryMealy$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel-template/target/scala-2.13/classes/BinaryMealy$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Max3$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel-template/target/scala-2.13/classes/Max3$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	MyShiftRegister$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel-template/target/scala-2.13/classes/MyShiftRegister$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BinaryMealyParams$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel-template/target/scala-2.13/classes/BinaryMealyParams$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Sort4_a$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel-template/target/scala-2.13/classes/Sort4_a$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Arbiter$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel-template/target/scala-2.13/classes/Arbiter$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BinaryMealyParams.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel-template/target/scala-2.13/classes/BinaryMealyParams.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	RegisterModule$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel-template/target/scala-2.13/classes/RegisterModule$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	FindMax$$anon$1.class[0m
@@ -158,6 +166,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel-template/target/scala-2.13/classes/MyOperators$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	LastConnect$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel-template/target/scala-2.13/classes/LastConnect$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BinaryMealy.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel-template/target/scala-2.13/classes/BinaryMealy.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Arbiter.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel-template/target/scala-2.13/classes/Arbiter.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Hello$delayedInit$body.class[0m
@@ -176,6 +186,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel-template/target/scala-2.13/classes/MyOptionalShiftRegister$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Max3$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel-template/target/scala-2.13/classes/Max3$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BinaryMealy$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel-template/target/scala-2.13/classes/BinaryMealy$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	DelayBy1_1$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel-template/target/scala-2.13/classes/DelayBy1_1$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	PassthroughGenerator$$anon$1.class[0m

@@ -1,13 +1,9 @@
-[0m[[0m[31merror[0m] [0m[0m/home/shi/chisel-template/src/main/scala/mealy.scala:20:3: expected class or object definition[0m
-[0m[[0m[31merror[0m] [0m[0m  val nStates = 3[0m
-[0m[[0m[31merror[0m] [0m[0m  ^[0m
-[0m[[0m[31merror[0m] [0m[0m/home/shi/chisel-template/src/main/scala/mealy.scala:21:1: expected class or object definition[0m
-[0m[[0m[31merror[0m] [0m[0mval s0 = 2[0m
-[0m[[0m[31merror[0m] [0m[0m^[0m
-[0m[[0m[31merror[0m] [0m[0m/home/shi/chisel-template/src/main/scala/mealy.scala:22:1: expected class or object definition[0m
-[0m[[0m[31merror[0m] [0m[0mdef stateTransition(state: Int, in: Boolean): Int = {[0m
-[0m[[0m[31merror[0m] [0m[0m^[0m
-[0m[[0m[31merror[0m] [0m[0m/home/shi/chisel-template/src/main/scala/mealy.scala:29:1: expected class or object definition[0m
-[0m[[0m[31merror[0m] [0m[0mdef output(state: Int, in: Boolean): Int = {[0m
-[0m[[0m[31merror[0m] [0m[0m^[0m
-[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
+[0m[[0m[31merror[0m] [0m[0m/home/shi/chisel-template/src/main/scala/mealy.scala:45:47: not enough arguments for constructor BinaryMealy: (mp: BinaryMealyParams): BinaryMealy.[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameter mp.[0m
+[0m[[0m[31merror[0m] [0m[0m  (new chisel3.stage.ChiselStage).emitVerilog(new BinaryMealy())[0m
+[0m[[0m[31merror[0m] [0m[0m                                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/shi/chisel-template/src/main/scala/mealy.scala:46:31: not enough arguments for constructor BinaryMealy: (mp: BinaryMealyParams): BinaryMealy.[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameter mp.[0m
+[0m[[0m[31merror[0m] [0m[0m    println(getVerilogString (new BinaryMealy))[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

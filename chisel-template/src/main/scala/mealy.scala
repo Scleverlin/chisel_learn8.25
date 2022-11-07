@@ -13,29 +13,11 @@ case class BinaryMealyParams(
   stateTransition: (Int, Boolean) => Int,
   // function describing output
   output: (Int, Boolean) => Int
-) {
+){
   require(nStates >= 0)
   require(s0 < nStates && s0 >= 0)
 }
-  
-def stateTransition(state: Int, in: Boolean): Int = {
-  if (in) {
-    1
-  } else {
-    0
-  }
-}
-def output(state: Int, in: Boolean): Int = {
-  if (state == 2) {
-    return 0
-  }
-  if ((state == 1 && !in) || (state == 0 && in)) {
-    return 1
-  } else {
-    return 0
-  }
 
-}
 
 class BinaryMealy(val mp: BinaryMealyParams) extends Module {
   val io = IO(new Bundle {
@@ -59,5 +41,30 @@ class BinaryMealy(val mp: BinaryMealyParams) extends Module {
     }
   }
 }
+object BinaryMealy  extends App {
+val nStates = 3
+val s0 = 2
+def stateTransition(state: Int, in: Boolean): Int = {
+  if (in) {
+    1
+  } else {
+    0
+  }
+}
+def output(state: Int, in: Boolean): Int = {
+  if (state == 2) {
+    return 0
+  }
+  if ((state == 1 && !in) || (state == 0 && in)) {
+    return 1
+  } else {
+    return 0
+  }
+}
+val testParams = BinaryMealyParams(nStates, s0, stateTransition, output)
 
-// example from https://en.wikipedia.org/wiki/Mealy_machine
+  (new chisel3.stage.ChiselStage).emitVerilog(new BinaryMealy(testParams))
+    println(getVerilogString (new BinaryMealy(testParams)))
+}
+
+  
