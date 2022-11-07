@@ -1,4 +1,10 @@
-[0m[[0m[31merror[0m] [0m[0m/home/shi/chisel-template/src/main/scala/option.scala:23:1: ')' expected but '}' found.[0m
-[0m[[0m[31merror[0m] [0m[0m}[0m
-[0m[[0m[31merror[0m] [0m[0m^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0m/home/shi/chisel-template/src/main/scala/implicit.scala:7:98: not found: type Verbosity[0m
+[0m[[0m[31merror[0m] [0m[0mclass ParameterizedWidthAdder_1(in0Width: Int, in1Width: Int, sumWidth: Int)(implicit verbosity: Verbosity)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/shi/chisel-template/src/main/scala/implicitdef.scala:2:37: not found: type Verbosity[0m
+[0m[[0m[31merror[0m] [0m[0mimplicit case object Silent extends Verbosity[0m
+[0m[[0m[31merror[0m] [0m[0m                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/shi/chisel-template/src/main/scala/implicitdef.scala:3:29: not found: type Verbosity[0m
+[0m[[0m[31merror[0m] [0m[0mcase object Verbose extends Verbosity[0m
+[0m[[0m[31merror[0m] [0m[0m                            ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
