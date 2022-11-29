@@ -40,6 +40,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel/chisel-template/target/scala-2.13/classes/Hello$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	MyOperatorsTwo$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel/chisel-template/target/scala-2.13/classes/MyOperatorsTwo$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyManyDynamicElementVecFir.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel/chisel-template/target/scala-2.13/classes/MyManyDynamicElementVecFir.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ParameterizedWidthAdder$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel/chisel-template/target/scala-2.13/classes/ParameterizedWidthAdder$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Polynomial$.class[0m
@@ -176,6 +178,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel/chisel-template/target/scala-2.13/classes/MyShiftRegister.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Sort4$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel/chisel-template/target/scala-2.13/classes/Sort4$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyManyDynamicElementVecFir$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel/chisel-template/target/scala-2.13/classes/MyManyDynamicElementVecFir$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ParameterizedWidthAdder$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel/chisel-template/target/scala-2.13/classes/ParameterizedWidthAdder$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	MyManyElementFir$$anon$1.class[0m
@@ -190,6 +194,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel/chisel-template/target/scala-2.13/classes/LastConnect$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	BinaryMealy.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel/chisel-template/target/scala-2.13/classes/BinaryMealy.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyManyDynamicElementVecFir$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel/chisel-template/target/scala-2.13/classes/MyManyDynamicElementVecFir$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	HalfFullAdder$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel/chisel-template/target/scala-2.13/classes/HalfFullAdder$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	MyManyElementFir$.class[0m
@@ -218,6 +224,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel/chisel-template/target/scala-2.13/classes/Max3$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	BinaryMealy$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel/chisel-template/target/scala-2.13/classes/BinaryMealy$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyManyDynamicElementVecFir$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel/chisel-template/target/scala-2.13/classes/MyManyDynamicElementVecFir$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	DelayBy1_1$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/shi/chisel/chisel-template/target/scala-2.13/classes/DelayBy1_1$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	PassthroughGenerator$$anon$1.class[0m
