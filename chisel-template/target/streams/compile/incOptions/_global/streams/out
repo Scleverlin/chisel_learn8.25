@@ -1,9 +1,10 @@
-[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /home/shi/chisel/chisel-template/target/scala-2.13/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /home/shi/chisel-template/target/scala-2.13/classes.bak[0m
 [0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
 [0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
 [0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	My4ElementFir$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	RegisterModule.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RegisterFile.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	GradLife$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	MyOperatorsTwo$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	MyOptionalShiftRegister$.class[0m
@@ -52,6 +53,7 @@
 [0m[[0m[0mdebug[0m] [0m[0m	GradLife$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Sort4$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	RegInitModule$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RegisterFile$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	MyShiftRegister.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	MyManyElementFir$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	RegInitModule.class[0m
@@ -82,6 +84,7 @@
 [0m[[0m[0mdebug[0m] [0m[0m	GCD$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	DelayBy1$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	RegisterModule$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RegisterFile$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Arbiter$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	LastConnect$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Sort4_a.class[0m
@@ -93,6 +96,7 @@
 [0m[[0m[0mdebug[0m] [0m[0m	MyOptionalShiftRegister$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	GcdInputBundle.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	PassthroughGenerator$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RegisterFile$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	DelayBy1$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	MyShiftRegister$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	MyImplicits$Verbosity.class[0m
@@ -126,4 +130,4 @@
 [0m[[0m[0mdebug[0m] [0m[0m	Comb$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	BinaryMealy$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ParameterizedWidthAdder_1.class[0m
-[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /home/shi/chisel/chisel-template/target/scala-2.13/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /home/shi/chisel-template/target/scala-2.13/classes.bak[0m
