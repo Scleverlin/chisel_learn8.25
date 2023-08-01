@@ -1,4 +1,4 @@
-[0m[[0m[31merror[0m] [0m[0m/home/shi/chisel/chisel-template/src/main/scala/firwithREGFILE.scala:5:12: object scalacheck is not a member of package org[0m
-[0m[[0m[31merror[0m] [0m[0mimport org.scalacheck.Shrink[0m
-[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/shi/chisel/chisel-template/src/main/scala/rca.scala:48:8: RippleCarryAdder is already defined as object RippleCarryAdder[0m
+[0m[[0m[31merror[0m] [0m[0mobject RippleCarryAdder  extends App {[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
 [0m[[0m[31merror[0m] [0m[0mone error found[0m

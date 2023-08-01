@@ -45,7 +45,7 @@ circuit DecoupledGcd :
     node _GEN_7 = validif(_T_3, yInitial) @[DecoupledGCD.scala 47:34 55:26]
     node _GEN_8 = mux(_T_3, _GEN_4, resultValid) @[DecoupledGCD.scala 35:28 47:34]
     node _GEN_9 = mux(_T_3, _GEN_3, busy) @[DecoupledGCD.scala 34:28 47:34]
-    node _GEN_10 = mux(input_valid, UInt<1>("h1"), _input_ready_T) @[DecoupledGCD.scala 64:23 Decoupled.scala 81:20 DecoupledGCD.scala 37:15]
+    node _GEN_10 = mux(input_valid, UInt<1>("h1"), _input_ready_T) @[DecoupledGCD.scala 64:23 Decoupled.scala 83:20 DecoupledGCD.scala 37:15]
     node _GEN_11 = mux(input_valid, input_bits_value1, x) @[DecoupledGCD.scala 64:23 32:24 66:9]
     node _GEN_12 = mux(input_valid, input_bits_value2, y) @[DecoupledGCD.scala 64:23 33:24 67:9]
     node _GEN_13 = mux(input_valid, input_bits_value1, xInitial) @[DecoupledGCD.scala 64:23 68:16 30:24]
